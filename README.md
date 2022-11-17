@@ -7,6 +7,6 @@ By Jan Engelhardt - Own work, Origin SVG PNG, CC BY-SA 3.0, File:Netfilter-packe
 
 ## Starter:
 
-1. [eBPF XDP: The Basics and a Quick Tutorial](https://www.tigera.io/learn/guides/ebpf/ebpf-xdp/) (It is useful for CentOS)
+1. [eBPF XDP: The Basics and a Quick Tutorial](https://www.tigera.io/learn/guides/ebpf/ebpf-xdp/) (Only works with CentOS)
 2. [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial#basic-setup-lessons)
 3. [A Gentle Introduction to XDP](https://www.seekret.io/blog/a-gentle-introduction-to-xdp/)

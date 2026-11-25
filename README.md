@@ -10,3 +10,7 @@ By Jan Engelhardt - Own work, Origin SVG PNG, CC BY-SA 3.0, File:Netfilter-packe
 1. [eBPF XDP: The Basics and a Quick Tutorial](https://www.tigera.io/learn/guides/ebpf/ebpf-xdp/) (Only works with CentOS)
 2. [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial#basic-setup-lessons)
 3. [A Gentle Introduction to XDP](https://www.seekret.io/blog/a-gentle-introduction-to-xdp/)
+
+## Projects
+
+- [RamShield](https://github.com/grep999/ramshield) - Self-hosted L3/L4 DDoS defense for Linux, written in Rust with XDP/eBPF and a WAL-backed recovery path. MIT, single binary, on-host filtering only.
